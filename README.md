@@ -40,7 +40,7 @@ Allow: /imgres
 Sitemap: https://www.google.com/sitemap.xml
 `
 ```
-Register `RobotsToken` with your manifest `Object` and register `RobotsPlugin` for the `__NODE__` env.
+Register `RobotsToken` with your robots `File` and register `RobotsPlugin` for the `__NODE__` env.
 ```js
 // src/main.js
 import App from 'fusion-react'
