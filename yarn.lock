@@ -2021,7 +2021,7 @@ eslint-config-cup@^2.0.1:
 
 eslint-config-fusion@0.0.0-monorepo:
   version "6.1.0"
-  resolved "https://registry.npmjs.org/eslint-config-fusion/-/eslint-config-fusion-6.1.0.tgz#19a9dbd3a1314641c8705d1dd0c2b281c1fcfc5b"
+  resolved "https://registry.yarnpkg.com/eslint-config-fusion/-/eslint-config-fusion-6.1.0.tgz#19a9dbd3a1314641c8705d1dd0c2b281c1fcfc5b"
   integrity sha512-vKm5eVMtzLIGtbG6QWiHaGGaYBC5ZaqSZ27P19dyUnKPGNCbzOPJ4f4NMcjVMX+RcSwwBTDgjkXy0BqNg+CP3g==
   dependencies:
     eslint-config-uber-universal-stage-3 "^3.0.1"
@@ -2515,7 +2515,7 @@ functional-red-black-tree@^1.0.1:
 
 fusion-core@0.0.0-monorepo:
   version "2.1.0"
-  resolved "https://registry.npmjs.org/fusion-core/-/fusion-core-2.1.0.tgz#a26757e882a02fa7ea7d648ea96aec207cad6eb0"
+  resolved "https://registry.yarnpkg.com/fusion-core/-/fusion-core-2.1.0.tgz#a26757e882a02fa7ea7d648ea96aec207cad6eb0"
   integrity sha512-aSs9dtRypc1bW2jXzh/iRqClfcGrUoo8n1nCA2m/5BM2sS2dHLk2EZQpXm76lnc+cRQuAikmaYeeMcGrka1SEA==
   dependencies:
     koa "^2.7.0"
@@ -2527,7 +2527,7 @@ fusion-core@0.0.0-monorepo:
 
 fusion-tokens@0.0.0-monorepo:
   version "2.1.0"
-  resolved "https://registry.npmjs.org/fusion-tokens/-/fusion-tokens-2.1.0.tgz#5d2abed95558b27a96fdccd45af383c301473d62"
+  resolved "https://registry.yarnpkg.com/fusion-tokens/-/fusion-tokens-2.1.0.tgz#5d2abed95558b27a96fdccd45af383c301473d62"
   integrity sha512-ntDUI197mCb0iy6yliUlV8o0DnEqJieX9FZ3A3Prteon5wooaRRgwq2kO+4HHsoTFOq5l5Lnb7rYt+B6Rdm15A==
 
 gensync@^1.0.0-beta.1:

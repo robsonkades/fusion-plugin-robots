@@ -24,7 +24,8 @@ const plugin =
               <meta name="robots" all />
             `
           );
-        } else if (ctx.method === 'GET' && ctx.path === '/robots.txt') {
+        }
+        if (ctx.method === 'GET' && ctx.path === '/robots.txt') {
           ctx.body = robots;
         }
         return next();

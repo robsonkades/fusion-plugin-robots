@@ -27,7 +27,7 @@ Create an `Object` to use for your `robots.txt` content.
 // src/robots.js
 import { assetUrl } from 'fusion-core'
 
-export default `
+const ROBOTS = `
 User-agent: *
 Disallow: /search
 Allow: /search/about
@@ -45,13 +45,13 @@ Register `RobotsToken` with your robots `File` and register `RobotsPlugin` for t
 // src/main.js
 import App from 'fusion-react'
 import RobotsPlugin, {
-  RobotsToken,
+  RobotsToken
 } from 'fusion-plugin-robots'
 import Robots from './robots'
 export default () => {
   const app = new App(root)
   if (__NODE__) {
-    app.register(RobotsToken, Robots)
+    app.register(RobotsToken, ROBOTS)
     app.register(RobotsPlugin)
   }
   return app

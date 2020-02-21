@@ -1,7 +1,7 @@
 {
   "name": "fusion-plugin-robots",
   "description": "A Fusion.js plugin for to instruct web robots (typically search engine robots) how to crawl pages on their website",
-  "version": "0.0.0-monorepo",
+  "version": "0.0.2-monorepo",
   "license": "MIT",
   "files": [
     "src/",
